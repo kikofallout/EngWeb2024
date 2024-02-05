@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<doc>
+    <meta>
+        <title>TPC1</title>
+        <author>
+            <name>João Silva</name>
+            <id>A97504</id>
+        </author>
+        <date>2024-02-05</date>
+        <uc>
+            <sigla>EW2022</sigla>
+            <nome>Engenharia Web</nome>
+        </uc>
+    </meta>
+    <resumo>
+        <p>Este documento contém a resolução do TPC1 da UC de Engenharia Web.</p>
+    </resumo>
+    <resultados>
+        <resultado> resultado1 </resultado>
+        <resultado> resultado2 </resultado>
+    </resultados>
+</doc>
